@@ -49,3 +49,5 @@ npx skills init skills/<category>/<skill-name>
 ```
 
 Then fill in the `SKILL.md`. See `CLAUDE.md` for the conventions this library follows — frontmatter, the Steps/Rules/Template shape, and why the rules are written to explain themselves.
+
+Ideas that aren't skills yet live in [`IDEAS.md`](IDEAS.md) — a someday/maybe list with notes and open questions per idea.

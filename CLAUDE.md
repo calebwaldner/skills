@@ -18,8 +18,11 @@ Skills are installed via the [`skills`](https://github.com/vercel-labs/skills) C
 ## Layout
 
 ```
+IDEAS.md
 skills/<category>/<skill-name>/SKILL.md
 ```
+
+`IDEAS.md` is the someday/maybe list — skill ideas with notes and open questions, none of them committed to. It's a plain repo doc, not an installable skill, so it stays at the root and out of `skills/`. When Caleb floats an idea he isn't building right now, it goes there; when an idea graduates, its entry is deleted rather than left as a stale duplicate of the real skill.
 
 One directory per skill, one `SKILL.md` inside it. The category directory (`engineering/`, and whatever domains come later) is the only grouping mechanism — expect it to widen well past engineering.
 
