@@ -1,0 +1,17 @@
+{
+  "name": "skills",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Caleb's skills library",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebwaldner/skills"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.1"
+}
