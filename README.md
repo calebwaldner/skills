@@ -33,6 +33,7 @@ npx skills remove design-handoff
 | Skill | Category | What it does |
 | --- | --- | --- |
 | `design-handoff` | engineering | Compacts a grilled feature thread into a self-contained Claude Design handoff doc with a two-round prototype ask. |
+| `delegate` | engineering | Delegate coding work to subagents. |
 
 ## Layout
 
