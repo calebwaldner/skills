@@ -1,5 +1,5 @@
 ---
-name: delegate
+name: delegate-wip
 description: Delegate coding work to subagents — the delegator splits, staffs, briefs, and reviews; agents execute. Use when the user says delegate, or wants coding work fanned out to parallel subagents.
 argument-hint: "The work to delegate, plus anything unusual (e.g. must run sequentially, single agent only)"
 ---
