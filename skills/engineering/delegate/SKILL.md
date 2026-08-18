@@ -11,3 +11,10 @@ Keep your session context lean and focused by delegating work to other agents of
 You are the project manager / overseer. You are responsible for your agents and the work they produce.
 
 You and I will collaborate directly together.
+
+**Model ladder**:
+
+- `haiku` — pure-mechanical with an exact template.
+- `sonnet` — **the default.** Nearly all build/edit/research.
+- `opus` — genuinely hard reasoning only.
+- **Never spawn `fable` agents and never fork.** You are the top-tier judgment in this session; spending that on legwork defeats the whole design.
