@@ -28,3 +28,5 @@ The staffing layer in front of the `delegate` skill: `delegate` executes work th
 - **Staffing never dead-ends the work.** No specialist fits, or the user declines an install: hand off to `delegate` with generic subagents and name the gap in the report. The work was the point; the catalog is a means.
 
 - **Install verbatim, under the catalog filename.** The Title Case `name` inside the file is what the Agent tool dispatches by; the division-prefixed filename is what step 2 matches against next time. Editing either breaks one of the two lookups.
+
+- **Always list who is assigned to each task.** Once you have decided on the staffing, list them right away so the user can see the assignments clearly; this is done immediately after the staffing decisions are made.
