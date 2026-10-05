@@ -27,6 +27,7 @@ The proposal still earns its keep. It is a map of where the ticket's author beli
 - **The proposal can win.** This skill is independent, not contrarian. When the evaluation lands on the ticket's own approach, say so plainly and recommend it. Rejecting it by reflex is the same failure as following it by reflex: the code did not decide.
 - **Human words on an AI ticket keep their weight.** A comment, note, or edit a person added to the ticket is the author's knowledge of the system. It belongs with the problem and the context, never in the proposal list, and it is read with full weight.
 - **Nothing is built here.** The skill ends at the recommendation, or hands it to the grill, which has its own gate. An agent that has already started building defends what it built, and "together" means the decision happens before that point.
+- **Report in simple language.** For everything handed to Caleb, whether the round 1 questions, the alone-branch report, or the stop-report when verification contradicts the problem: give a little bit of context, talk in ASD-STE100 Simplified Technical English, and use the ubiquitous language from `CONTEXT.md`.
 
 ## Template (alone branch)
 
